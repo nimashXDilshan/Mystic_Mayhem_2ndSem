@@ -1,0 +1,122 @@
+ ----------------------------------------
+|        Nimash vs GeraltofRivia        |
+ ----------------------------------------
+Turn 1: Nimash
+Archer
+Warlock attacks Ranger
+Ranger's health: 2.6
+Warlock's health: 10.0
+--
+Turn 1: GeraltofRivia
+Warlock attacks Soother
+Soother's health: 3.8
+Warlock's health: 10.0
+---------------------
+Turn 2: Nimash
+Archer
+Warlock attacks Ranger
+Ranger's health: 0.0
+Warlock's health: 10.0
+Ranger died!
+--
+Turn 2: GeraltofRivia
+Warlock attacks Soother
+Soother's health: 0.0
+Warlock's health: 10.0
+Soother died!
+---------------------
+Turn 3: Nimash
+Healer
+Warlock attacks Medic
+Medic's health: 5.8
+Warlock's health: 10.0
+--
+Turn 3: GeraltofRivia
+Warlock attacks Warlock
+Warlock's health: 4.9
+Warlock's health: 10.0
+---------------------
+Turn 4: Nimash
+Healer
+Warlock attacks Medic
+Medic's health: 0.6
+Warlock's health: 4.9
+--
+Turn 4: GeraltofRivia
+Warlock attacks Warlock
+Warlock's health: 0.0
+Warlock's health: 10.0
+Warlock died!
+---------------------
+Turn 5: Nimash
+Healer
+Shooter attacks Medic
+Medic's health: 0.0
+Shooter's health: 6.0
+Medic died!
+--
+Turn 5: GeraltofRivia
+Warlock attacks Squire
+Squire's health: 2.1
+Warlock's health: 10.0
+---------------------
+Turn 6: Nimash
+Mage
+Shooter attacks Warlock
+Warlock's health: 5.4
+Shooter's health: 6.0
+--
+Turn 6: GeraltofRivia
+Warlock attacks Squire
+Squire's health: 0.0
+Warlock's health: 5.4
+Squire died!
+---------------------
+Turn 7: Nimash
+Mage
+Shooter attacks Warlock
+Warlock's health: 0.8
+Shooter's health: 6.0
+--
+Turn 7: GeraltofRivia
+Warlock attacks Dragon
+Dragon's health: 10.4
+Warlock's health: 0.8
+---------------------
+Turn 8: Nimash
+Mage
+Shooter attacks Warlock
+Warlock's health: 0.0
+Shooter's health: 6.0
+Warlock died!
+--
+Turn 8: GeraltofRivia
+Character@6d21714c heal Squire
+Squire's health : 8.2
+Medic's health : 0.0
+---------------------
+Turn 9: Nimash
+Knight
+Shooter attacks Squire
+Squire's health: 3.8
+Shooter's health: 6.0
+--
+Turn 9: GeraltofRivia
+Character@6d21714c heal Squire
+Squire's health : 5.0
+Medic's health : 0.0
+---------------------
+Turn 10: Nimash
+Knight
+Shooter attacks Squire
+Squire's health: 0.6
+Shooter's health: 6.0
+--
+Turn 10: GeraltofRivia
+Character@6d21714c heal Squire
+Squire's health : 1.8
+Medic's health : 0.0
+---------------------
+draw
+NimashXP: 0 GoldCoins: 20
+GeraltofRiviaXP: 32 GoldCoins: 215
